@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Cookie Shadow -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M60,105 C85,105 106,98 106,90 C106,82 85,75 60,75 C35,75 14,82 14,90 C14,98 35,105 60,105 Z" />
+
+    <!-- Matcha Green Cookie Body -->
+    <path
+        android:fillColor="#556B2F"
+        android:pathData="M60,18 C83,18 102,32 104,55 C106,75 92,94 72,98 C52,102 28,95 19,77 C10,59 19,33 38,22 C45,18 52,18 60,18 Z" />
+
+    <path
+        android:fillColor="#6B8E23"
+        android:pathData="M58,22 C76,21 95,33 97,52 C99,69 87,87 70,90 C53,93 32,87 24,71 C16,55 24,32 40,24 C46,21 52,22 58,22 Z" />
+
+    <path
+        android:fillColor="#7DAA2E"
+        android:pathData="M52,26 C68,26 82,35 83,48 C83,60 72,74 58,76 C45,78 30,73 28,60 C26,47 38,26 52,26 Z" />
+
+    <!-- Baked Cracks -->
+    <path
+        android:fillColor="#3E5020"
+        android:pathData="M48,36 C55,38 60,34 68,39 C66,42 59,40 52,42 Z" />
+    <path
+        android:fillColor="#3E5020"
+        android:pathData="M35,62 C41,60 48,66 54,63 C52,67 44,66 38,68 Z" />
+
+    <!-- White Chocolate Chunks -->
+    <path
+        android:fillColor="#FFFEEA"
+        android:pathData="M42,45 C47,43 51,48 48,53 C45,57 39,56 38,51 C37,47 39,45 42,45 Z" />
+    <path
+        android:fillColor="#FFFEEA"
+        android:pathData="M70,39 C75,38 78,43 76,47 C74,51 69,52 67,47 C66,44 68,40 70,39 Z" />
+    <path
+        android:fillColor="#FFFEEA"
+        android:pathData="M60,66 C65,64 69,70 66,75 C63,78 57,77 55,72 C54,68 57,66 60,66 Z" />
+    <path
+        android:fillColor="#FFFEEA"
+        android:pathData="M78,68 C83,66 86,71 84,75 C81,78 76,77 75,73 C74,70 76,68 78,68 Z" />
+
+</vector>

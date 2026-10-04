@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Cookie Shadow -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M60,105 C85,105 106,98 106,90 C106,82 85,75 60,75 C35,75 14,82 14,90 C14,98 35,105 60,105 Z" />
+
+    <!-- Monster Blue Cookie Body (Thick & Chunky) -->
+    <path
+        android:fillColor="#1E6B7B"
+        android:pathData="M60,18 C82,17 101,32 103,55 C105,74 92,94 72,98 C52,102 28,95 19,77 C10,59 20,33 38,22 C45,18 52,18 60,18 Z" />
+
+    <path
+        android:fillColor="#28899D"
+        android:pathData="M58,22 C76,21 95,33 97,52 C99,69 88,87 70,90 C53,93 32,87 24,71 C16,55 25,32 40,24 C46,21 52,22 58,22 Z" />
+
+    <!-- Textured Cracks -->
+    <path
+        android:fillColor="#154B57"
+        android:pathData="M35,42 C40,43 45,40 50,45 C52,47 48,50 44,48 Z" />
+    <path
+        android:fillColor="#154B57"
+        android:pathData="M70,70 C75,68 80,72 85,69 C88,71 82,75 78,74 Z" />
+
+    <!-- Chocolate Chips Embedded -->
+    <path
+        android:fillColor="#1B1411"
+        android:pathData="M32,58 C36,56 40,60 38,65 C35,69 30,67 29,62 C29,59 31,58 32,58 Z" />
+    <path
+        android:fillColor="#1B1411"
+        android:pathData="M80,45 C84,43 88,47 87,51 C85,55 81,56 78,52 C77,48 78,45 80,45 Z" />
+    <path
+        android:fillColor="#1B1411"
+        android:pathData="M64,80 C68,79 71,83 69,87 C67,90 63,89 61,86 C60,82 62,80 64,80 Z" />
+
+    <!-- Signature Mini Oreo on Top Center -->
+    <path
+        android:fillColor="#1F1A17"
+        android:pathData="M60,34 C72,34 82,41 82,50 C82,59 72,66 60,66 C48,66 38,59 38,50 C38,41 48,34 60,34 Z" />
+    <!-- Oreo Cream Layer -->
+    <path
+        android:fillColor="#F0EDE6"
+        android:pathData="M60,48 C70,48 79,51 79,53 C79,55 70,57 60,57 C50,57 41,55 41,53 C41,51 50,48 60,48 Z" />
+    <!-- Oreo Top Biscuit -->
+    <path
+        android:fillColor="#2B2420"
+        android:pathData="M60,36 C70,36 79,42 79,49 C79,53 70,56 60,56 C50,56 41,53 41,49 C41,42 50,36 60,36 Z" />
+    <!-- Oreo Embossed Pattern -->
+    <path
+        android:fillColor="#1B1613"
+        android:pathData="M52,43 C56,43 56,47 52,47 C48,47 48,43 52,43 Z" />
+    <path
+        android:fillColor="#1B1613"
+        android:pathData="M68,43 C72,43 72,47 68,47 C64,47 64,43 68,43 Z" />
+    <path
+        android:fillColor="#1B1613"
+        android:pathData="M60,46 C63,46 63,49 60,49 C57,49 57,46 60,46 Z" />
+
+</vector>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Box Shadow -->
+    <path
+        android:fillColor="#20000000"
+        android:pathData="M18,92 L102,92 L96,104 L24,104 Z" />
+
+    <!-- Bakery Kraft Box Body -->
+    <path
+        android:fillColor="#C89666"
+        android:pathData="M20,48 L100,48 L96,92 L24,92 Z" />
+    <path
+        android:fillColor="#B78252"
+        android:pathData="M24,92 L96,92 L95,95 L25,95 Z" />
+
+    <!-- Open Box Lid / Peek of colorful cookies inside -->
+    <path
+        android:fillColor="#E1B88B"
+        android:pathData="M16,46 L104,46 L98,34 L22,34 Z" />
+
+    <!-- Cookie peek 1 (Monster Blue) -->
+    <path
+        android:fillColor="#1E6B7B"
+        android:pathData="M32,38 C38,34 44,38 44,44 C44,48 38,50 32,48 C28,46 28,41 32,38 Z" />
+    <!-- Cookie peek 2 (Golden Choco) -->
+    <path
+        android:fillColor="#ECA54D"
+        android:pathData="M48,34 C54,30 60,34 60,40 C60,44 54,46 48,44 C44,42 44,37 48,34 Z" />
+    <!-- Cookie peek 3 (Red Velvet) -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M64,36 C70,32 76,36 76,42 C76,46 70,48 64,46 C60,44 60,39 64,36 Z" />
+    <!-- Cookie peek 4 (Matcha) -->
+    <path
+        android:fillColor="#6B8E23"
+        android:pathData="M78,39 C84,36 88,40 88,45 C88,49 84,51 78,49 C74,47 74,42 78,39 Z" />
+
+    <!-- Festive Green Gift Ribbon -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,34 L66,34 L66,92 L54,92 Z" />
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M16,44 L104,44 L104,52 L16,52 Z" />
+
+    <!-- Ribbon Bow Knot on Top -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M54,28 C46,20 40,26 48,32 C54,36 60,34 60,34 C60,34 66,36 72,32 C80,26 74,20 66,28 C62,32 60,34 60,34 C60,34 58,32 54,28 Z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M57,31 C57,29 63,29 63,31 C63,33 57,33 57,31 Z" />
+
+    <!-- Maw Cookies Label on Box -->
+    <path
+        android:fillColor="#FFF8E7"
+        android:pathData="M38,62 L82,62 L80,78 L40,78 Z" />
+    <path
+        android:fillColor="#3E1E0F"
+        android:pathData="M44,68 L76,68 L76,70 L44,70 Z" />
+    <path
+        android:fillColor="#C2672B"
+        android:pathData="M48,72 L72,72 L72,74 L48,74 Z" />
+
+</vector>

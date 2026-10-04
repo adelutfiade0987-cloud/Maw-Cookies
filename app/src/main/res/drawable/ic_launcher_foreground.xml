@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Cookie Base (Warm Golden Cookie) in 66dp safe zone (center 54, radius ~28) -->
+    <path
+        android:fillColor="#E08B3E"
+        android:pathData="M54,26 C68,25 79,33 81,46 C83,57 77,69 71,76 C63,83 45,84 37,79 C29,74 25,62 26,49 C27,37 38,27 54,26 Z" />
+
+    <!-- Cookie Top Highlight (Golden baked dough) -->
+    <path
+        android:fillColor="#F6AE55"
+        android:pathData="M52,28 C64,28 75,35 77,47 C74,48 70,47 67,49 C63,52 64,57 60,59 C56,61 51,57 47,58 C42,60 41,66 36,66 C30,66 28,58 28,49 C29,38 39,29 52,28 Z" />
+
+    <!-- Mini Cookie / Oreo accent on top (representing the blue monster / gourmet topping) -->
+    <path
+        android:fillColor="#2D2118"
+        android:pathData="M54,32 C58,32 61,35 61,38 C61,41 58,43 54,43 C50,43 47,41 47,38 C47,35 50,32 54,32 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,36.5 C57,36.5 59,37.2 59,38 C59,38.8 57,39.5 54,39.5 C51,39.5 49,38.8 49,38 C49,37.2 51,36.5 54,36.5 Z" />
+
+    <!-- Chocolate Chunks & Chips -->
+    <path
+        android:fillColor="#3E1E0F"
+        android:pathData="M39,44 C42,43 44,46 43,49 C41,51 38,50 37,47 C37,45 38,44 39,44 Z" />
+    <path
+        android:fillColor="#3E1E0F"
+        android:pathData="M66,47 C69,46 72,48 71,51 C70,54 67,54 65,52 C64,49 65,47 66,47 Z" />
+    <path
+        android:fillColor="#3E1E0F"
+        android:pathData="M48,53 C52,52 54,55 53,58 C51,61 47,60 46,57 C45,54 47,53 48,53 Z" />
+    <path
+        android:fillColor="#3E1E0F"
+        android:pathData="M37,60 C40,59 42,62 41,65 C39,67 36,66 35,63 C35,61 36,60 37,60 Z" />
+    <path
+        android:fillColor="#3E1E0F"
+        android:pathData="M58,63 C61,62 64,64 63,67 C62,70 59,70 57,68 C56,65 57,63 58,63 Z" />
+    <path
+        android:fillColor="#3E1E0F"
+        android:pathData="M47,68 C50,67 52,70 51,73 C49,75 46,74 45,71 C45,69 46,68 47,68 Z" />
+
+    <!-- Cute smile / bite detail giving Maw Cookies character -->
+    <path
+        android:fillColor="#2D170A"
+        android:pathData="M73,34 C76,35 78,39 76,43 C73,42 71,39 72,36 C72,35 73,34 73,34 Z" />
+
+</vector>

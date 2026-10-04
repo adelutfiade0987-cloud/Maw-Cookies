@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- QR Background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8,8h80v80h-80z" />
+
+    <!-- Outer Frame & Corner Position Markers -->
+    <!-- Top-Left Marker -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M16,16h24v24h-24z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,22h12v12h-12z" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M26,26h4v4h-4z" />
+
+    <!-- Top-Right Marker -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M56,16h24v24h-24z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,22h12v12h-12z" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M66,26h4v4h-4z" />
+
+    <!-- Bottom-Left Marker -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M16,56h24v24h-24z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,62h12v12h-12z" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M26,66h4v4h-4z" />
+
+    <!-- QR Code Pixels -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M44,16h8v8h-8z M44,28h4v4h-4z M52,28h4v8h-4z M48,40h8v4h-8z M16,44h4v8h-4z M24,44h8v4h-8z M36,48h4v4h-4z M56,44h12v4h-12z M72,44h8v8h-8z M60,52h4v8h-4z M48,48h4v8h-4z M44,60h8v8h-8z M56,64h8v4h-8z M72,60h8v16h-8z M64,72h8v4h-8z M56,76h4v8h-4z M64,80h12v4h-12z M44,72h4v12h-4z" />
+
+    <!-- Center QRIS Badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,40h16v16h-16z" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M42,42h12v12h-12z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,45h6v6h-6z" />
+
+</vector>

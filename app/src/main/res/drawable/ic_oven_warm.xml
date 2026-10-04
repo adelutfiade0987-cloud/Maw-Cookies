@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- Oven Body -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M16,18 L80,18 C83,18 86,21 86,24 L86,82 C86,85 83,88 80,88 L16,88 C13,88 10,85 10,82 L10,24 C10,21 13,18 16,18 Z" />
+
+    <!-- Control Panel -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M14,22 L82,22 L82,34 L14,34 Z" />
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M22,28m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M30,28m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+    <!-- Timer Display -->
+    <path
+        android:fillColor="#102027"
+        android:pathData="M44,24h24v8h-24z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M48,27h4v2h-4z M56,27h4v2h-4z M64,27h2v2h-2z" />
+
+    <!-- Oven Glass Window -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M18,40 L78,40 L78,80 L18,80 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M22,44 L74,44 L74,76 L22,76 Z" />
+
+    <!-- Baking Tray -->
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M26,66 L70,66 L70,70 L26,70 Z" />
+
+    <!-- Cookies on Tray in Oven -->
+    <path
+        android:fillColor="#D88737"
+        android:pathData="M34,62m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path
+        android:fillColor="#4E2718"
+        android:pathData="M48,62m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M62,62m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+
+    <!-- Heat Waves (Baking!) -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M34,48 C32,50 36,52 34,54"
+        android:strokeWidth="2"
+        android:strokeColor="#E65100" />
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M48,46 C46,48 50,50 48,52"
+        android:strokeWidth="2"
+        android:strokeColor="#E65100" />
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M62,48 C60,50 64,52 62,54"
+        android:strokeWidth="2"
+        android:strokeColor="#E65100" />
+
+</vector>

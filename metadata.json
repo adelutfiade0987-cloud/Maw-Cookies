@@ -1,0 +1,6 @@
+{
+  "name": "Maw Cookies",
+  "description": "Toko online cookies premium Maw Cookies dengan katalog produk, keranjang belanja, pembayaran QRIS/VA, dan pelacakan pesanan real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

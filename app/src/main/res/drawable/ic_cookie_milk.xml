@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Bottle Shadow -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M60,105 C80,105 96,100 96,94 C96,88 80,83 60,83 C40,83 24,88 24,94 C24,100 40,105 60,105 Z" />
+
+    <!-- Glass Bottle Silhouette -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M48,18 L72,18 L72,26 L68,34 L78,44 L78,92 C78,96 74,100 70,100 L50,100 C46,100 42,96 42,92 L42,44 L52,34 L48,26 Z" />
+
+    <!-- Fresh Milk Filling -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,48 L76,48 L76,92 C76,95 73,98 70,98 L50,98 C47,98 44,95 44,92 Z" />
+
+    <!-- Milk Wave Surface -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M44,48 C50,45 56,51 62,48 C68,45 74,51 76,48 L76,54 L44,54 Z" />
+
+    <!-- Bottle Cap (Vintage Milk Cap) -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M46,14 L74,14 L74,20 L46,20 Z" />
+
+    <!-- Bottle Label -->
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M44,60 L76,60 L76,80 L44,80 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,68 C50,66 54,64 60,64 C66,64 70,66 70,68 C70,70 66,72 60,72 C54,72 50,70 50,68 Z" />
+
+    <!-- Small Golden Cookie dipping into milk -->
+    <path
+        android:fillColor="#ECA54D"
+        android:pathData="M80,68 C88,68 94,74 94,82 C94,90 88,96 80,96 C72,96 66,90 66,82 C66,74 72,68 80,68 Z" />
+    <path
+        android:fillColor="#3E1E0F"
+        android:pathData="M75,76h3v3h-3z M84,78h3v3h-3z M78,85h3v3h-3z" />
+
+</vector>

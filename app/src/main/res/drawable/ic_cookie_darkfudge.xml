@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Cookie Shadow -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M60,105 C85,105 106,98 106,90 C106,82 85,75 60,75 C35,75 14,82 14,90 C14,98 35,105 60,105 Z" />
+
+    <!-- Dark Cocoa Body -->
+    <path
+        android:fillColor="#3D1D12"
+        android:pathData="M60,19 C82,18 101,32 103,55 C105,74 92,94 72,98 C52,102 28,95 19,77 C10,59 19,33 38,22 C45,18 52,19 60,19 Z" />
+
+    <path
+        android:fillColor="#4E2718"
+        android:pathData="M58,22 C76,21 94,33 96,52 C98,69 86,86 69,89 C52,92 32,86 24,71 C17,56 24,33 40,24 C46,21 52,22 58,22 Z" />
+
+    <!-- Glossy Fudgy Center Swirl -->
+    <path
+        android:fillColor="#613320"
+        android:pathData="M52,30 C66,28 78,36 79,48 C80,60 69,72 56,74 C44,76 33,69 31,58 C29,46 39,32 52,30 Z" />
+
+    <!-- Fudgy Cracks -->
+    <path
+        android:fillColor="#220F08"
+        android:pathData="M38,40 C46,42 52,37 60,42 C57,46 50,44 43,45 Z" />
+    <path
+        android:fillColor="#220F08"
+        android:pathData="M34,60 C40,58 48,64 54,61 C51,66 43,65 37,67 Z" />
+    <path
+        android:fillColor="#220F08"
+        android:pathData="M66,54 C73,52 79,59 86,55 C84,60 76,60 70,62 Z" />
+
+    <!-- Extra Dark Chocolate Lava Chunks -->
+    <path
+        android:fillColor="#1C0A04"
+        android:pathData="M44,48 C50,46 54,52 51,58 C47,62 40,61 39,55 C38,51 41,48 44,48 Z" />
+    <path
+        android:fillColor="#1C0A04"
+        android:pathData="M72,42 C78,41 81,47 79,52 C77,56 71,57 68,52 C67,48 69,43 72,42 Z" />
+    <path
+        android:fillColor="#1C0A04"
+        android:pathData="M62,69 C68,67 72,74 69,80 C65,84 58,83 56,77 C55,72 58,69 62,69 Z" />
+
+</vector>
